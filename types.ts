@@ -40,7 +40,7 @@ export interface BookingState {
   timeSlot: string;
   serviceId?: string;
   notes?: string;
-};
+}
   paymentStatus: 'pending' | 'deposit_paid' | 'fully_paid';
 }
 
