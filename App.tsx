@@ -12,8 +12,8 @@ import { saveApplicant } from './services/applicantService';
 const HERO_IMAGES = [
   "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=2000&auto=format&fit=crop", // Modern Living Room with light wood floors
   "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=2000&auto=format&fit=crop", // Bright Modern Kitchen with Island
-  "Screenshot 2025-12-15 050459.png", // Modern Bathroom
-  "1.png"  // Clean Laundry/Mudroom
+  "Screenshot 2025-12-15 050459.png?q=80&w=2000&auto=format&fit=crop", // Modern Bathroom
+  "1.png?q=80&w=2000&auto=format&fit=crop"  // Clean Laundry/Mudroom
 ];
 
 // --- SERVICE AREAS ---
