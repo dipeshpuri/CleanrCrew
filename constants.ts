@@ -33,7 +33,7 @@ export const SERVICE_OPTIONS: ServiceOption[] = [
     hourlyRate: 65,
     icon: '📦',
     recommendedHours: 6,
-    image: "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?q=80&w=2000&auto=format&fit=crop"
+    image: "1.png"
   },
   {
     id: ServiceType.OFFICE,
@@ -42,7 +42,7 @@ export const SERVICE_OPTIONS: ServiceOption[] = [
     hourlyRate: 50,
     icon: '🏢',
     recommendedHours: 4,
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2000&auto=format&fit=crop"
+    image: "Screenshot 2025-12-15 050459.png"
   }
 ];
 
